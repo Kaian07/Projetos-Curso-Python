@@ -9,4 +9,4 @@ Esse Repositorio é um portfolio dos meus projetos em Python que realizei durant
 
 # [Projeto Envio de email automático](https://github.com/Kaian07/Projetos-Curso-Python/blob/main/email_sender.py)
 
-  Utilizando as bibliotecas smtplib para logar a um email, email.message para escrever um email e destinar para quem irá o email com mensagem, email e assunto e Template para construir um corpo de mensagem para customizar com variaveis e possibilitar mandar o email para mais de uma pessoal.
+  Utilizando as bibliotecas smtplib para logar a um email, email.message para escrever um email e destinar para quem irá o email com mensagem, email e assunto e Template para construir um corpo de mensagem para customizar com variaveis e possibilitar mandar o email para mais de uma pessoal. [Click aqui](https://github.com/Kaian07/Projetos-Curso-Python/blob/main/index.html) para ver o exemplo de corpo de mensagem em arquivo HTML usado no código.
