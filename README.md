@@ -1,7 +1,7 @@
 # Projetos-Curso-Python
 Esse Repositorio é um portfolio dos meus projetos em Python que realizei durante meu curso em python, que me fizeram trabalhar, entender e práticar as vantagens de aprender e usar a linguagem python seja para um projeto de automação, webdesign, Machine Learning e análise de dados. Me apaixonei por essa linguagem de programação tão versatil é prática que me fez sentir como se estivesse conversando com o computador e durante meu aprendizado pude práticar a lingua Inglesa o que foi bom porque ja faz um tempo que voltei do meu intercámbio e que queria algo que me ajuda-se a continuar praticando meu inglês e encontrei isso estudando programação que acabou virando uma das aréas mais atraentes e viciantes que tive o prazer de conhecer.
 
-# Data Scraping 
+# [Data Scraping](https://github.com/Kaian07/Projetos-Curso-Python/blob/main/data_scraping.py) 
 
   Esse projeto foi usado a ferramente BeautifulSoup junto com as bibliotecas requests e pprint do python. O objetivo é extrair uma lista das notícias mais votadas da primeira se segunda página do site Hacker News(https://news.ycombinator.com/news).
   O programa retorna a lista contendo Título, link e quantos votos a notícia recebeu.
